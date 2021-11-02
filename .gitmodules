@@ -1,0 +1,3 @@
+[submodule "sub-project2"]
+	path = sub-project2
+	url = git@github.com:ymtk00/sub-project2.git
